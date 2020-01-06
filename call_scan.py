@@ -3,7 +3,7 @@ import time
 from PyQt5.QtWidgets import QApplication, QMainWindow
 from PyQt5.QtCore import QObject, pyqtSignal
 
-from sample_scan_1 import Ui_Form
+from sample_scan_ui import Ui_Form
 from FtpModule import Ftp
 from MySQLModule import MySQL
 
